@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IT Job Search Web Application
 
 A comprehensive web application for IT professionals to search for jobs, manage their profiles, connect with IT companies, and read industry-related blog posts.
@@ -203,3 +204,6 @@ For support and questions:
 - **v1.0.0** - Initial release with basic job search and blog functionality
 - **v1.1.0** - Added user authentication and company profiles
 - **v1.2.0** - Enhanced blog system with comments and tags 
+=======
+# cdtt2
+>>>>>>> 5e1f88e380a0a47c11902c1bf106d16979acbdc2
